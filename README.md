@@ -47,5 +47,3 @@ In the future, this model will be further improved by implementing additional al
 ## **Contributing**
 Contributions to this project are welcome. If you have suggestions for improvements or want to contribute code, feel free to submit a pull request.
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
